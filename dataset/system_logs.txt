@@ -1,0 +1,44 @@
+[2025-01-19 09:33:27] Iniciando o sistema de detecção em tempo real...
+[2025-01-19 09:33:42] Detecções: 0 bots encontrados
+[2025-01-19 09:34:06] Iniciando o sistema de detecção em tempo real...
+[2025-01-19 09:34:21] Detecções: 0 bots encontrados
+[2025-01-19 09:39:16] Iniciando o sistema de detecção em tempo real...
+[2025-01-19 09:39:33] Frame processado: 0 bots detectados.
+[2025-01-19 09:39:41] Frame processado: 0 bots detectados.
+[2025-01-19 09:39:52] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:00] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:10] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:20] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:30] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:39] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:47] Frame processado: 0 bots detectados.
+[2025-01-19 09:40:56] Frame processado: 0 bots detectados.
+[2025-01-19 09:41:04] Frame processado: 0 bots detectados.
+[2025-01-19 09:41:14] Frame processado: 0 bots detectados.
+[2025-01-19 09:41:17] Sistema encerrado pelo usuário.
+[2025-01-19 09:41:48] Iniciando o sistema de detecção em tempo real...
+[2025-01-19 09:42:02] Frame processado: 0 bots detectados.
+[2025-01-19 09:42:12] Frame processado: 0 bots detectados.
+[2025-01-19 09:42:23] Frame processado: 0 bots detectados.
+[2025-01-19 09:42:33] Frame processado: 0 bots detectados.
+[2025-01-19 09:42:40] Sistema encerrado pelo usuário.
+[2025-01-19 09:50:07] Iniciando o sistema de detecção em tempo real...
+[2025-01-19 09:50:24] Frame processado: 0 bots detectados.
+[2025-01-19 09:50:35] Frame processado: 0 bots detectados.
+[2025-01-19 09:50:44] Frame processado: 0 bots detectados.
+[2025-01-19 09:50:56] Frame processado: 0 bots detectados.
+[2025-01-19 09:51:07] Frame processado: 0 bots detectados.
+[2025-01-19 09:51:19] Frame processado: 0 bots detectados.
+[2025-01-19 09:51:30] Frame processado: 0 bots detectados.
+[2025-01-19 09:51:41] Frame processado: 0 bots detectados.
+[2025-01-19 09:51:52] Frame processado: 0 bots detectados.
+[2025-01-19 09:52:04] Movimento ajustado: Swipe de (1200, 540) para (1187, 532)
+[2025-01-19 09:52:04] Frame processado: 1 bots detectados.
+[2025-01-19 09:52:16] Frame processado: 0 bots detectados.
+[2025-01-19 09:52:26] Frame processado: 0 bots detectados.
+[2025-01-19 09:52:36] Frame processado: 0 bots detectados.
+[2025-01-19 09:52:46] Frame processado: 0 bots detectados.
+[2025-01-19 09:52:56] Frame processado: 0 bots detectados.
+[2025-01-19 09:53:07] Movimento ajustado: Swipe de (1200, 540) para (1336, 533)
+[2025-01-19 09:53:08] Frame processado: 1 bots detectados.
+[2025-01-19 09:53:18] Frame processado: 0 bots detectados.
