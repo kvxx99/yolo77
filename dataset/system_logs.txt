@@ -42,3 +42,10 @@
 [2025-01-19 09:53:07] Movimento ajustado: Swipe de (1200, 540) para (1336, 533)
 [2025-01-19 09:53:08] Frame processado: 1 bots detectados.
 [2025-01-19 09:53:18] Frame processado: 0 bots detectados.
+[2025-01-20 02:35:32] Iniciando o sistema de detecção em tempo real...
+[2025-01-20 02:36:30] Sistema encerrado pelo usuário.
+[2025-01-20 02:36:59] Iniciando o sistema de detecção em tempo real...
+[2025-01-21 18:51:21] Iniciando o sistema de detecção em tempo real...
+[2025-01-21 18:53:12] Frame processado: 0 bots detectados.
+[2025-01-21 18:54:55] Frame processado: 0 bots detectados.
+[2025-01-21 18:56:35] Frame processado: 0 bots detectados.
